@@ -4,7 +4,7 @@ The question set was created by [Love Babbar](https://www.youtube.com/channel/UC
 
 # Problems (including categories and code)
 ## Language of code:
-Java
+Python / C++
 ### Arrays:
 
 | Sl. No | Problem | Code |
