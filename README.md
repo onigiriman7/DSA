@@ -14,4 +14,5 @@ Python / C++
 | 3. | [Find the "Kth" max and min element of an array](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1) | [Go]() |
 | 4. | [Coin change problem](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1) | [Go](https://gist.github.com/onigiriman7/1670af96b091041e4a087bfafc6c22ff) |
 | 5. | [0 1 Knapsack Problem](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1) | [Go](https://gist.github.com/onigiriman7/d65d39add6a3c640e514bd9d4d2e0d24) |
-| 5. | [Nth Catalan Number](https://practice.geeksforgeeks.org/problems/nth-catalan-number0817/1#) | [Go](https://gist.github.com/onigiriman7/6588b038bcd2c2cc7072bca17bc00dbc) |
+| 6. | [Nth Catalan Number](https://practice.geeksforgeeks.org/problems/nth-catalan-number0817/1#) | [Go](https://gist.github.com/onigiriman7/6588b038bcd2c2cc7072bca17bc00dbc) |
+| 7. | [Reverse String](https://leetcode.com/problems/reverse-string/submissions/) | [Go](https://gist.github.com/onigiriman7/3166a8b8330dcd4f01c81c47461d74e8) |
