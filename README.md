@@ -16,3 +16,4 @@ Python / C++
 | 5. | [0 1 Knapsack Problem](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1) | [Go](https://gist.github.com/onigiriman7/d65d39add6a3c640e514bd9d4d2e0d24) |
 | 6. | [Nth Catalan Number](https://practice.geeksforgeeks.org/problems/nth-catalan-number0817/1#) | [Go](https://gist.github.com/onigiriman7/6588b038bcd2c2cc7072bca17bc00dbc) |
 | 7. | [Reverse String](https://leetcode.com/problems/reverse-string/submissions/) | [Go](https://gist.github.com/onigiriman7/3166a8b8330dcd4f01c81c47461d74e8) |
+| 7. | [Word Wrap GFG](https://www.geeksforgeeks.org/word-wrap-problem-dp-19/) | [Go](https://gist.github.com/onigiriman7/7dd8e17e630771ea7c0fde3d2833b9b0) |
